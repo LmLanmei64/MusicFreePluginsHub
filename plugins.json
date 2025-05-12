@@ -1,16 +1,6 @@
 {
   "plugins": [
     {
-      "name": "Audiomack",
-      "url": "https:\/\/gitee.com\/crisy\/music-free-plugins\/raw\/release\/dist\/audiomack\/index.js",
-      "version": "0.0.2"
-    },
-    {
-      "name": "5sing",
-      "url": "https:\/\/gitee.com\/crisy\/music-free-plugins\/raw\/release\/dist\/5sing\/index.js",
-      "version": "0.1.2"
-    },
-    {
       "name": "酷狗",
       "url": "https:\/\/gitee.com\/crisy\/music-free-plugins\/raw\/release\/dist\/kugou\/index.js",
       "version": "0.1.5"
@@ -34,11 +24,6 @@
       "name": "咪咕",
       "url": "https:\/\/gitee.com\/crisy\/music-free-plugins\/raw\/release\/dist\/migu\/index.js",
       "version": "0.2.2"
-    },
-    {
-      "name": "网易云",
-      "url": "https:\/\/gitee.com\/crisy\/music-free-plugins\/raw\/release\/dist\/netease\/index.js",
-      "version": "0.2.3"
     },
     {
       "name": "千千音乐",
@@ -71,6 +56,11 @@
       "version": "0.0.1"
     },
     {
+      "name": "Audiomack",
+      "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/audiomack\/index.js",
+      "version": "0.0.2"
+    },
+    {
       "name": "歌词网",
       "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/geciwang\/index.js",
       "version": "0.0.0"
@@ -88,11 +78,6 @@
     {
       "name": "suno",
       "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/suno\/index.js",
-      "version": "0.0.0"
-    },
-    {
-      "name": "歌词千寻",
-      "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/geciqianxun\/index.js",
       "version": "0.0.0"
     },
     {
