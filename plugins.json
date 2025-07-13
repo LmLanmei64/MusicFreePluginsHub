@@ -46,6 +46,21 @@
       "version": "0.0.1"
     },
     {
+      "name": "Youtube",
+      "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/youtube\/index.js",
+      "version": "0.0.1"
+    },
+    {
+      "name": "bilibili",
+      "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/bilibili\/index.js",
+      "version": "0.2.3"
+    },
+    {
+      "name": "WebDAV",
+      "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/webdav\/index.js",
+      "version": "0.0.2"
+    },
+    {
       "name": "网易云",
       "url": "https:\/\/testingcf.jsdelivr.net\/gh\/Lmlanmei64\/MusicFreePlugins@master\/plugins\/wy.js",
       "version": "2025.01.22"
